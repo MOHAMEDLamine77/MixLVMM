@@ -1,6 +1,6 @@
-# **MixLVMM: A Mixture of Lightweight Vision Mamba Models for Skin Lesion Segmentation**  
+# **MixLVMM: A Mixture of Lightweight Vision Mamba Model for Enhancing Skin Lesion Segmentation Across High Tone Variability**  
 
 📌 **Official repository for the paper:**  
-🚀 *"MixLVMM: A Mixture of Lightweight Vision Mamba Models for Enhanced Skin Lesion Segmentation"*  
+🚀 *"MixLVMM: A Mixture of Lightweight Vision Mamba Model for Enhancing Skin Lesion Segmentation Across High Tone Variability"*  
 
 📅 **Code Release:** *Coming Soon* 
